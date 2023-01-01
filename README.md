@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @afayez7
-- 👀 I’m interested in tech devices
+- 👋 Hi, I’m Ahmed Fayez
+- 👀 I’m interested in Tech Devices
 - 🌱 I’m currently learning Data Science & Supply Chain
 - 💞️ I’m looking to collaborate on any project about Data or Supply Chain
 - 📫 you can reach me at: a.fayez1@outlook.com
