@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed Fayez
+- 👋 Hi, I’m Ahmad Fayez
 - 👀 I’m interested in Tech Devices
 - 🌱 I’m currently learning Data Science & Supply Chain
 - 💞️ I’m looking to collaborate on any project about Data or Supply Chain
